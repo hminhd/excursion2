@@ -4,17 +4,55 @@ body {
     background-color: black;
 }
 
-header h1 {
-    font-weight: normal;
-    font-size: 50px;
+header {
     text-align: center;
 }
 
-header p {
-    text-align: center;
+header h1 {
+    font-weight: normal;
+    font-size: 50px;
 }
 
 header a {
     color: aquamarine;
     font-size: 16px;
+}
+
+
+main {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+main h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+main p {
+    font-size: 21px;
+    color: gray;
+}
+
+
+
+
+
+footer {
+    text-align: center;
+}
+
+footer h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+footer a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer #pagemark {
+    color: gray;
+    text-align: right;
 }
